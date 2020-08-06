@@ -1,0 +1,51 @@
+#game div {
+	border: 1px solid black;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+}
+
+h1 {
+	margin: 0;
+	display: inline-block;
+}
+
+button {
+	margin-top: 10px;
+	float: right;
+}
+
+span {
+	margin-top: 12px;
+	margin-left: 10px;
+	float: right;
+}
+
+#numCards {
+	float: right;
+	width: 50px;
+	margin-top: 10px;
+}
+
+form {
+	float: right;
+}
+
+input {
+	float: right;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+#bestScore {
+	margin-top: 0px;
+}
+
+#newGame {
+	margin-left: 10px;
+}
+
+#startGame {
+	margin-left: 20px;
+}
